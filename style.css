@@ -1,0 +1,31 @@
+.container{
+    height: 500px;
+    width:500px;
+    vertical-align: middle;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 30;
+    font-size:20px;
+    padding: 50px 70px;
+}
+
+.to-do{
+    margin-top: 25px;
+}
+
+#input{
+    height:30px;
+    font-size:30px;
+}
+
+#button{
+    height:30px;
+    width:30px;
+    border: 1px solid black;
+}
+
+.styling{
+    font-size:20px;
+    cursor: pointer;
+    font-size:20px;
+}
